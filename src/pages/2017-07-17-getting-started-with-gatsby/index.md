@@ -8,8 +8,8 @@ tags:
   - javascript
 image: preview.png
 excerpt: >-
-  Gatsby is an incredible static site generator that lets you build a static
-  site that still has all the benefits expected from a modern web application…
+  Recently we have installed hydrophnic.To know more details click 
+  here
 ---
 
 _This blog post was originally published at [Object Partners, Inc.](https://objectpartners.com/2017/07/19/creating-a-static-blog-with-gatsby/), and has since been cross-posted at the [official gatsby blog](https://www.gatsbyjs.org/blog/2017-07-19-creating-a-blog-with-gatsby/)_
