@@ -34,7 +34,7 @@ const Types = {
     return (
       <ExternalLink
         hoverColor="#3b5998"
-        href="https://www.facebook.com/profile.php?id=100004599014794"
+        href="https://www.facebook.com/profile.php?id=100000831906045"
         {...props}
       >
         <FacebookIcon size={32} />
@@ -43,14 +43,14 @@ const Types = {
   },
   git(props) {
     return (
-      <ExternalLink hoverColor="#333333" href="https://github.com/DSchau" {...props}>
+      <ExternalLink hoverColor="#333333" href="https://github.com/meerasahib" {...props}>
         <GithubIcon size={32} />
       </ExternalLink>
     );
   },
   twitter(props) {
     return (
-      <ExternalLink hoverColor="#1da1f2" href="https://twitter.com/schaudustin" {...props}>
+      <ExternalLink hoverColor="#1da1f2" href="https://twitter.com/meeraece" {...props}>
         <TwitterIcon size={32} />
       </ExternalLink>
     );

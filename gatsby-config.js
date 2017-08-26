@@ -1,8 +1,8 @@
 module.exports = {
   pathPrefix: '/blog',
   siteMetadata: {
-    title: `Dustin Schau - Blog`,
-    author: `Dustin Schau`,
+    title: `Meera Sahib - Blog`,
+    author: `Mohamed Meera Sahib`,
   },
   plugins: [
     'gatsby-plugin-catch-links',
@@ -38,7 +38,7 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-google-analytics',
       options: {
-        trackingId: 'UA-102928446-2'
+        trackingId: 'UA-105102373-1'
       }
     },
     {
