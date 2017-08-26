@@ -44,9 +44,9 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-manifest',
       options: {
-        name: `Dustin Schau's Blog`,
-        description: 'The blog of the developer, Dustin Schau',
-        short_name: 'DSchau Blog',
+        name: `Meera Sahib's Blog`,
+        description: 'The blog of the developer, Mohamed Meera Sahib',
+        short_name: 'Meera Blog',
         background_color: 'white',
         theme_color: '#002635',
         orientation: 'portrait',
