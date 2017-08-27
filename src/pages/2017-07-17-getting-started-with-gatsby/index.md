@@ -27,4 +27,4 @@ Here we are explaining about hydroponics recently installed in my house
 ![Blog listing](./images/blog-listing.png)
 
 
-![Hydrophonic](./images/IMG-20170827-WA0011.jpeg)
+![Hydrophonic](./images/IMG-20170827-WA0011.jpg)
