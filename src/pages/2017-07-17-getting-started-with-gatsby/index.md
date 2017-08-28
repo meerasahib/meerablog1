@@ -14,7 +14,7 @@ excerpt: >-
 
 Recently installed the hydrophonic in our house.
 
-[Hydrophonics@adirai](https://www.facebook.com/mohammed.abubacker.94?fref=gs&hc_ref=ART5bk8i_KdRFG3pIFuGFvYPiahF-vCIpJd6oQiAMr26WF_sBEKMQ1fhCFnMBsregOw&hc_location=group)
+[Hydrophonics@adirai](https://www.facebook.com/mohammed.abubacker.94/videos/472036246504260/)
 
 
 
