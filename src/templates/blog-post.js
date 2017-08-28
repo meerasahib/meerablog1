@@ -32,7 +32,7 @@ export default function BlogPost({ data = {}, location, pathContext }) {
   return (
     <Container>
       <Helmet
-        title={`Dustin Schau - ${post.frontmatter.title}`}
+        title={`MEERA SAHIB - ${post.frontmatter.title}`}
         meta={[
           {
             name: `description`,
