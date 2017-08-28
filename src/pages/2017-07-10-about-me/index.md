@@ -32,7 +32,7 @@ The following gatsby plugins are each used as the backbone for much of the funct
 -   [gatsby-transformer-remark][gatsby-transformer-remark]
 -   [gatsby-remark-copy-linked-files][gatsby-remark-copy-linked-files]
 -   [gatsby-remark-smartypants][gatsby-remark-smartypants]
--   [gatsby-plugin-react-helmet][gatsby-plugin-react-helmet]
+
 
 ## Web technologies
 
