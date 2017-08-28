@@ -1,7 +1,7 @@
 ---
 title: Hydrophonic
 path: /getting-started-with-gatsby
-date: '2017-07-17T17:12:33.962Z'
+date: '2017-08-28T17:12:33.962Z'
 tags:
   - gatsby
   - react
@@ -12,7 +12,7 @@ excerpt: >-
   here
 ---
 
-Here we are explaining about hydroponics recently installed in my house
+Recently installed the hydrophonic in our house.
 
 
 
@@ -23,8 +23,6 @@ Here we are explaining about hydroponics recently installed in my house
 
 
 
-
-![Blog listing](./images/blog-listing.png)
 
 
 ![Hydrophonic](./images/IMG-20170827-WA0011.jpg)
