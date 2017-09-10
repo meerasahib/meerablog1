@@ -6,7 +6,7 @@ tags:
   - harvest
   - organic
   - fresh produce
-image: preview.png
+image: ui-and-code.png
 excerpt: >-
   Recently we have installed hydrophnic.To know more details click 
   here
