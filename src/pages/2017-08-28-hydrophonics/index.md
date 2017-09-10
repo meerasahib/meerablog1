@@ -14,7 +14,7 @@ excerpt: >-
 
 Recently installed the hydrophonic in our house.
 
-[Ready to harvest](https://youtu.be/4AKDuiKyVMo)
+[Ready to harvest](https://www.youtube.com/watch?v=4AKDuiKyVMo&feature=youtu.be)
 
 [Hydrophonics@adirai](https://www.facebook.com/mohammed.abubacker.94/videos/472036246504260/)
 
