@@ -1,7 +1,7 @@
 ---
 title: The handwritten token
 path: /the handwritten token
-date: '2017-09-15T17:12:33.962Z'
+date: "2017-09-15T05:00:00.000Z"
 tags:
   - ncb
   - money
