@@ -1,7 +1,7 @@
 ---
 title: Hydrophonic
 path: /hydrophonics
-date: '2017-09-09T17:12:33.962Z'
+date: "2017-09-09T05:00:00.000Z"
 tags:
   - harvest
   - organic
