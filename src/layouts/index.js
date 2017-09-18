@@ -41,7 +41,7 @@ export default class Template extends React.Component {
             {
               name: 'description',
               content:
-                'The blog of the Jeddah, Saudi Arabia based Firmware developer, Meera Sahib',
+                'The blog of Meera Sahib',
             },
             {
               name: 'keywords',
