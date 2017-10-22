@@ -1,7 +1,7 @@
 ---
 path: "/care"
 date: "2017-10-22T05:00:00.000Z"
-title: "Total failure"
+title: "Care"
 tags: ["intro", "about"]
 image: "member.png"
 ---
