@@ -1,7 +1,7 @@
 ---
-path: "/total-failure"
-date: "2017-09-20T05:00:00.000Z"
-title: "Total failure"
+path: "/care"
+date: "2017-10-22T05:00:00.000Z"
+title: "The Care"
 tags: ["intro", "about"]
 image: "member.png"
 ---
