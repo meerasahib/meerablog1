@@ -1,5 +1,5 @@
 ---
-path: "/care1"
+path: "/car"
 date: "2017-12-21T05:00:00.000Z"
 title: "Care1"
 tags: ["intro", "about"]
