@@ -1,5 +1,5 @@
 import React from 'react';
-import Link from 'gatsby-link';
+import GatsbyLink from 'gatsby-link'
 import Helmet from 'react-helmet';
 
 import PostDate from '../components/Date';
