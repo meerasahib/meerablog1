@@ -18,7 +18,7 @@ Hello! My name is Mohamed Meera Sahib, and I'm a Firmware developer working in H
 
 ## About me
 
-I'm a 30s something developer living in jeddah,Saudi Arabia. I graduated from Anna  University (in chennai) with a degree in Electronics and communication  that I've translated into my current career as firmware developer. My current employer is Huta Group.
+I'm a 30s something developer living in jeddah,Saudi Arabia. I graduated from Anna  University (in chennai) with a degree in Electronics and communication  that I've translated into my current career as firmware developer. 
 
 ### Technical interests
 
